@@ -1,2 +1,2 @@
-# nginx-pang
-pangzi
+# nginx
+nginx配置
